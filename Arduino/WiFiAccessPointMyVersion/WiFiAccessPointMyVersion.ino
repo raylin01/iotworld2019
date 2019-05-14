@@ -41,7 +41,7 @@ void setup() {
 
   // You can remove the password parameter if you want the AP to be open.
   WiFi.softAP(ssid, password, 1, false, 8);
-  WiFi.hostname("RAM_PROJECT");
+  //WiFi.hostname("RAM_PROJECT");
   IPAddress myIP = WiFi.softAPIP();
   Serial.print("AP IP address: ");
   Serial.println(myIP);
