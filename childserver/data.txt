@@ -1,0 +1,1 @@
+{"humid": "is", "temp": "ansih", "rain": "genius"}
