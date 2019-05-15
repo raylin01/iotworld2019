@@ -18,7 +18,8 @@ data = [
     [25, 0]
     ]
 
-data2 = [
+
+'''data2 = [
     [39, 0],
     [42, 0],
     [30, 0],
@@ -26,7 +27,7 @@ data2 = [
     [44, 0],
     [39, 0],
     [35, 0]
-    ]
+    ]'''
 
-result = pred(data2)
+result = pred(data)
 print(result)
